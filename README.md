@@ -24,8 +24,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 学习
-之笔记 https://www.yuque.com/fenfen-ls2od/kb/wuzd52
-之教程 https://jspang.com/detailed?id=64#toc244
+- 之笔记 https://www.yuque.com/fenfen-ls2od/kb/wuzd52
+- 之教程 https://jspang.com/detailed?id=64#toc244
 
 ### 项目文件介绍
 - node_modules 所有的项目依赖包都放在这个目录下
